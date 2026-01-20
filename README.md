@@ -50,6 +50,12 @@
 
 ---
 
+## Project Structure
+
+https://github.com/circuminds/Document-Intelligence-and-RAG-System/blob/main/structure.md
+
+---
+
 ## Processing Pipeline
 
 1. **Parse + OCR**
