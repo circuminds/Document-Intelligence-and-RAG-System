@@ -1,7 +1,7 @@
 
 ## Overview
 
-This project implements a production-style document analysis pipeline:
+Pipeline:
 
 1. Documents are uploaded and stored with metadata
 2. PDFs are parsed into page images and text layers
