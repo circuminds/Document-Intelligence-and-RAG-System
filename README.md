@@ -46,13 +46,15 @@
 
 ## System Architecture
 
+
 <img width="776" height="464" alt="image" src="https://github.com/user-attachments/assets/82e1598e-e6a5-43df-95ce-331eb8589a51" />
 
 ---
 
 ## Project Structure
 
-https://github.com/circuminds/Document-Intelligence-and-RAG-System/blob/main/structure.md
+[Structure](https://github.com/circuminds/Document-Intelligence-and-RAG-System/blob/main/structure.md)
+
 
 ---
 
