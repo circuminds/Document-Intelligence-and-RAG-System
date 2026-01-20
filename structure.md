@@ -13,25 +13,6 @@ This project implements a production-style document analysis pipeline:
 
 ## Project Structure
 
-document_analysis/
-├── app/
-│   ├── ui/                     # Streamlit frontend (document UI + chat)
-│   └── api.py                  # FastAPI backend (RAG APIs)
-│
-├── pipeline/
-│   ├── ingest/                 # Upload, delete, cleanup, DB logic
-│   ├── ocr/                    # PDF parsing and OCR pipeline
-│   ├── chunking/               # Semantic & layout-aware chunking
-│   ├── retrieval/              # Retrieval + RAG orchestration
-│
-├── data/
-│   ├── raw/                    # Uploaded documents
-│   ├── parsed/                 # Parsed pages, OCR output, chunks
-│   └── indexes/                # Vector indexes & metadata
-│
-├── db/
-│   └── rag.db                  # SQLite metadata database
-│
-├── requirements.txt
-└── README.md
+<img width="560" height="434" alt="image" src="https://github.com/user-attachments/assets/1cec33ee-aa47-4fd2-b399-480502e27423" />
+
 
