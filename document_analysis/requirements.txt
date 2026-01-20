@@ -1,0 +1,44 @@
+# =========================
+# Core backend
+# =========================
+fastapi
+uvicorn
+pydantic
+
+# =========================
+# Frontend
+# =========================
+streamlit
+requests
+
+# =========================
+# Document processing
+# =========================
+pillow
+pytesseract
+pdf2image
+opencv-python
+
+# =========================
+# NLP & Embeddings
+# =========================
+sentence-transformers
+torch
+transformers
+
+# =========================
+# Vector search
+# =========================
+faiss-cpu
+numpy
+
+# =========================
+# Database
+# =========================
+sqlalchemy
+
+# =========================
+# Utilities
+# =========================
+tqdm
+python-multipart
