@@ -122,6 +122,26 @@ pip install -r requirements.txt
 
 ```
 
+#### Install Tesseract OCR binary
+```bash
+brew install tesseract        # macOS
+sudo apt install tesseract-ocr # Linux
+```
+
+#### Install Poppler
+```bash
+brew install poppler
+sudo apt install poppler-utils
+```
+
+#### OLLAMA for local LLM inference
+```bash
+brew install ollama
+ollama pull llama3
+
+```
+
+
 ### 2️⃣ Start Backend
 ```bash
 uvicorn app.api:app --reload
