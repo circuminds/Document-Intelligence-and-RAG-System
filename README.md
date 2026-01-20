@@ -112,17 +112,17 @@ conda create -n rag python=3.10
 conda activate rag
 pip install -r requirements.txt
 
-bash```
+```
 
 ### 2️⃣ Start Backend
 ```bash
 uvicorn app.api:app --reload
-bash```
+```
 
 ### 3️⃣ Start UI
 ```bash
 streamlit run app/ui/app.py
-bash```
+```
 
 
 
