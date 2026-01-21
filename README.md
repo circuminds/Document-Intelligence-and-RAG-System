@@ -152,6 +152,7 @@ uvicorn app.api:app --reload
 streamlit run app/ui/app.py
 ```
 
+<img width="1430" height="600" alt="image" src="https://github.com/user-attachments/assets/f81cd013-5950-4663-ada8-eb194de79400" />
 
 
 
