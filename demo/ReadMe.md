@@ -9,6 +9,8 @@ Each demo highlights how the system behaves under different document conditions 
 
 [Demo 1](https://github.com/circuminds/Document-Intelligence-and-RAG-System/blob/main/demo/demo1.md)
 
+![Quick preview](demo1.gif)
+
 ---
 
 ## Demo 2 — Scanned PDF (OCR-Heavy)
