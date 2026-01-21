@@ -24,18 +24,21 @@ Each demo highlights how the system behaves under different document conditions 
 
 [Demo 3](https://github.com/circuminds/Document-Intelligence-and-RAG-System/blob/main/demo/demo3.md)
 
+![Quick preview](demo3.gif)
 ---
 
 ## Demo 4 — Multi-Document Knowledge Base
 
 [Demo 4](https://github.com/circuminds/Document-Intelligence-and-RAG-System/blob/main/demo/demo4.md)
 
+![Quick preview](demo4.gif)
 ---
 
 ## Demo 5 — Page-Level Inspection & Debugging
 
 [Demo 5](https://github.com/circuminds/Document-Intelligence-and-RAG-System/blob/main/demo/demo5.md)
 
+![Quick preview](demo5.gif)
 ---
 
 ## Summary of Results
