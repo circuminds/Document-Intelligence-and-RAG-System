@@ -56,11 +56,10 @@ Each demo highlights how the system behaves under different document conditions 
 ## Key Takeaways
 
 - System handles **real-world document messiness**
-- OCR is not a fallback — it is a first-class citizen
+- OCR is useful in scanned pdfs
 - Chunking strategy directly impacts retrieval quality
-- Page-level citations dramatically improve trust
-- Designed for **inspection, not just answers**
-
+- Page-level citations improve trust significantly.
+  
 ---
 
 ## Reproducibility
