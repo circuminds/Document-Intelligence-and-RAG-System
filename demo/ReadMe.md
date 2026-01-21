@@ -17,6 +17,7 @@ Each demo highlights how the system behaves under different document conditions 
 
 [Demo 2](https://github.com/circuminds/Document-Intelligence-and-RAG-System/blob/main/demo/demo2.md)
 
+![Quick preview](demo2.gif)
 ---
 
 ## Demo 3 — Long Technical Report (50+ Pages)
