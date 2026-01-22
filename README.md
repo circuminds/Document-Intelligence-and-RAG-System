@@ -1,7 +1,7 @@
 # Document-Intelligence-and-RAG-System
 **PDF + OCR + Chunking + FAISS + Retrieval + Chat**
 
-> An end-to-end, production-oriented Retrieval-Augmented Generation (RAG) system designed to work with **real-world documents** - scanned PDFs, noisy OCR, long reports, and text retrieval.
+> An end-to-end, Retrieval-Augmented Generation (RAG) system designed to work with **real-world documents** - scanned PDFs, noisy OCR, long reports, and text retrieval.
 
 ---
 
